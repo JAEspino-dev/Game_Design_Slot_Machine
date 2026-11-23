@@ -1,6 +1,9 @@
 # ☀️ Slot Machine App
 Use this program if you want to gamble!   
 
+# Link
+[Check out the Site!](https://fullstack-name-app.onrender.com)
+
 # 📋 How to use
 1. Open the app in your browser
 2. Enter a bet, click spin   
