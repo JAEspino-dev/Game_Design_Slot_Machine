@@ -2,7 +2,7 @@
 Use this program if you want to gamble!   
 
 # Link
-[Check out the Site!](https://medspaapi.netlify.app/)
+[Check out the Site!](https://gamedesignslotmachine.netlify.app/)
 
 # 📷 Images
 <img width="1047" height="568" alt="Screenshot 2026-10-06 at 8 53 03 PM" src="Screenshot.png" />
